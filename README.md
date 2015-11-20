@@ -1,8 +1,8 @@
 # Introduction
 
-This module is a Virtualizer data model implementation example library in Python for the [EU-FP7-UNIFY][http://fp7-unify.eu/] project.
+This module is a Virtualizer data model implementation example library in Python for the [EU-FP7-UNIFY](http://fp7-unify.eu/) project.
 
-The Virtualizer YANG model was presented in [draft-unify-nfvrg-recursive-programming][https://tools.ietf.org/html/draft-unify-nfvrg-recursive-programming].
+The Virtualizer YANG model was presented in [draft-unify-nfvrg-recursive-programming](https://tools.ietf.org/html/draft-unify-nfvrg-recursive-programming).
 
 The main goal of the library was to provide a common interface between components from various partners, by realizing the Sl-Or UNIFY reference point according to the Virtualizer YANG model.
 Further expectations on the library were:
@@ -31,6 +31,6 @@ The library consists of two main files:
 
 # Additional information
 
-* [UNIFY Deliverables][http://fp7-unify.eu/index.php/results.html#Deliverables]
+* [UNIFY Deliverables](http://fp7-unify.eu/index.php/results.html#Deliverables)
 
 
