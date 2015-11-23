@@ -32,5 +32,3 @@ The library consists of two main files:
 # Additional information
 
 * [UNIFY Deliverables](http://fp7-unify.eu/index.php/results.html#Deliverables)
-
-
